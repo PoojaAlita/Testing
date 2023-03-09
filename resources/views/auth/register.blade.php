@@ -52,12 +52,6 @@
                                     </div>
                                 </div>
 
-                                <div class="mt-2 mb-0 row">
-                                    <div class="col-12 mt-4">
-                                        <p class="mb-0">By registering you agree to the Veltrix <a href="#" class="text-primary">Terms of Use</a></p>
-                                    </div>
-                                </div>
-
                             </form>
 
                         </div>
@@ -67,7 +61,7 @@
 
                 <div class="mt-5 text-center">
                     <p>Already have an account ? <a href="{{route('login')}}" class="fw-medium text-primary"> Login </a> </p>
-                    <p>© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                    {{-- <p>© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p> --}}
                 </div>
 
             </div>

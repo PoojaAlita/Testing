@@ -42,7 +42,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <a href="{{ route('password.request') }}">Forgot your password?</a>
-                                    <a href="{{ route('password.request') }}" id="regster_link">Registration</a>
+                                    <a href="{{ route('register') }}" id="regster_link">Registration</a>
                                 </div>
 
                                 <div class="mb-3">
